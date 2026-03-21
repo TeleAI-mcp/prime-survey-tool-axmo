@@ -1,2 +1,3 @@
-# prime-survey-tool-axmo
-A survey and feedback platform for modern development workflows
+# Prime Survey Tool Axmo
+
+A survey and feedback platform for modern development workflows.
